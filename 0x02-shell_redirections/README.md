@@ -5,4 +5,4 @@ Display the content of /etc/passwd and /etc/host.
 display the last 10 lines of /etc/passwd.
 display the first 10 lines of /etc/passwd.
 Script that display the third line the file iacta .
-
+write a shell script to create a file name exactly contiaining the text best school.
